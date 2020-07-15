@@ -58,7 +58,7 @@ Trong quá trình cài đặt, em có sử dụng một vài kỹ thuật tiên 
 
 **V. Video Demo**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g3lBIpnSrRI/0.jpg](https://www.youtube.com/watch?v=g3lBIpnSrRI)
+[![alt](media/3.jpg)](https://www.youtube.com/watch?v=g3lBIpnSrRI)
 
 
 
