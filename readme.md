@@ -58,8 +58,7 @@ Trong quá trình cài đặt, em có sử dụng một vài kỹ thuật tiên 
 
 **V. Video Demo**
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/g3lBIpnSrRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g3lBIpnSrRI/0.jpg](https://www.youtube.com/watch?v=g3lBIpnSrRI)
+
+
+
